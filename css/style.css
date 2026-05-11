@@ -1,0 +1,14 @@
+body {
+  margin:150px auto;
+  width: 700px;
+  border: 5px solid magenta;
+}
+
+#secId {
+  background-color: aquamarine;
+}
+
+#secId h2{
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: blue;
+}
